@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Prueba de git</title>
+	<title>Bueno esta el curso</title>
 </head>
 <body>
-<h1>Git prueba</h1>
+<h1>titulo editado</h1>
 </body>
 </html>
